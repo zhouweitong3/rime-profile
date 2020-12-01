@@ -1,0 +1,12 @@
+var:
+  last_build_time: 1606810078
+  option:
+    full_shape: false
+    simplification: false
+  previously_selected_schema: luna_pinyin
+  schema_access_time:
+    easy_en: 1606792087
+    luna_pinyin: 1606809331
+    luna_pinyin.zhwiki: 1606805133
+    luna_pinyin_simp: 1606733224
+    mozc: 1606808261
